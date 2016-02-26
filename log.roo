@@ -2,3 +2,10 @@
 project setup --topLevelPackage com.springsource.pizzashop 
 q
 // Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 14:18:45
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log opened at 2016-02-26 14:21:30
+q
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 14:21:34
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log opened at 2016-02-26 14:22:36
+jpa setup --provider HIBERNATE --database H2_IN_MEMORY 
+q
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 14:31:30
