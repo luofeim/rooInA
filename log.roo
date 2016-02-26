@@ -9,3 +9,10 @@ q
 jpa setup --provider HIBERNATE --database H2_IN_MEMORY 
 q
 // Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 14:31:30
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log opened at 2016-02-26 15:12:53
+q
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 15:13:05
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log opened at 2016-02-26 15:13:52
+entity jpa --class ~.domain.Base 
+q
+// Spring Roo 2.0.0.M1 [rev 33e5d76] log closed at 2016-02-26 15:14:19
